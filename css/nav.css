@@ -5,3 +5,11 @@ nav img { max-width:130px; }
 /* Cozy color for nav */
 .btn-cozy{background-color: #ea77ad !important;}
 .border-cozy { box-shadow: #ea77ad !important;}
+
+.rounded-100 { border-radius: 100%!important; }
+
+.btn-badge {
+    padding: .35em .5em;
+    top: -8px!important;
+    right: -8px!important;
+}
