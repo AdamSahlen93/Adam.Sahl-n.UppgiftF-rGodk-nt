@@ -1,2 +1,2 @@
-# G-Uppgift_HTML_CSS
- School kidz - website
+# School kidz - website
+Create the exakt same website as the teacher by following along with the lessons/videos
